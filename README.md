@@ -1,2 +1,2 @@
 # boosttanceken
-Modulleri yukle startla uc url cek zırve sonra babacımm :D
+Kod 90-100 satır civarında undici dışı modül yok farkı hiss et ve memnun kal dc;kahpe
